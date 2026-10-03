@@ -6,5 +6,6 @@
   "tone": "playful, short, like a supportive friend, never naggy",
   "about_friend": "Studies late and forgets to drink water. Loves coding puns.",
   "model": "gemma3:4b",
-  "ollama_url": "http://localhost:11434/api/generate"
+  "ollama_url": "http://localhost:11434/api/generate",
+  "flourishes": ["❁✿❀❁✿❀", "✿ ❀ ✿", "❁ ✿ ❁"]
 }
