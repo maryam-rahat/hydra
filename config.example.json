@@ -1,0 +1,10 @@
+{
+  "friend_name": "Sam",
+  "goal_ml": 2000,
+  "interval_min": 60,
+  "active_hours": [9, 23],
+  "tone": "playful, short, like a supportive friend, never naggy",
+  "about_friend": "Studies late and forgets to drink water. Loves coding puns.",
+  "model": "llama3.2:3b",
+  "ollama_url": "http://localhost:11434/api/generate"
+}
